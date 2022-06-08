@@ -1,0 +1,32 @@
+# Iniciando curso Módulo 1 :computer:
+
+## Aprendizados até o momento no Curso
+
+#### Introdução à Programação e Pensamento Computacional 
+
+##### As Técnicas de Lógica de Programação 
+
+#### Técnica Linear, Técnica Estruturada e Técnica Modular
+
+#### Fundamentos de Algoritmos
+
+#### Vetores e Matrizes
+
+#### Funções
+
+#### Características de um Programa
+
+#### Análise de Códigos
+
+#### Git/GitHub
+
+
+
+
+
+######  
+
+
+
+
+
